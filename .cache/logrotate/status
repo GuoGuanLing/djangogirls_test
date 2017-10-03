@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/ling-3/.cache/upstart/dbus.log" 2017-10-3-11:2:39
+"/home/ling-3/.cache/upstart/unity7.log" 2017-10-3-11:2:39
+"/home/ling-3/.cache/upstart/window-stack-bridge.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/unity-panel-service-lockscreen.log" 2017-9-26-4:32:34
+"/home/ling-3/.cache/upstart/at-spi2-registryd.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/hud.log" 2017-10-3-11:2:39
+"/home/ling-3/.cache/upstart/indicator-sound.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/indicator-session.log" 2017-9-22-16:6:2
+"/home/ling-3/.cache/upstart/update-notifier-release.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/upstart-event-bridge.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/ssh-agent.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/gnome-keyring-ssh.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/unity-settings-daemon.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/gpg-agent.log" 2017-10-3-10:54:48
+"/home/ling-3/.cache/upstart/unity-panel-service.log" 2017-10-3-11:2:39
+"/home/ling-3/.cache/upstart/indicator-datetime.log" 2017-10-3-10:54:48
